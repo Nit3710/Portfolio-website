@@ -1,29 +1,29 @@
-import eco from '../assets/eco.jpg';
-import wowfood from '../assets/food1.jpg';
-import travel from '../assets/travel.jpg';
+import eco from '../assets/posa.png';
+import wowfood from '../assets/portfo.png';
+import travel from '../assets/social.png';
 const Workcarddata = [
     {
         imgsrc: eco,
-        title:"Ecommerce website Design",
-        text:"This is a Ecommerce website project which has full functionality like payment and cart.",
-        view:"https://youtu.be/eu0rExO_C3A?si=rVkI6vDPvx53K0eC",
-        source:"https://www.youtube.com/"
+        title:"POS Website",
+        text:"This is a Ecommerce website project which has invoice functionality like bill generation and show all items.",
+        view:"https://my-pos.netlify.app/",
+        source:"https://github.com/Nit3710/POS-Project-MERN.git"
        
     },
     {
         imgsrc: wowfood,
-        title:"Food website Design",
-        text:"This is a food website project which has full functionality like payment and cart as well as the local storage.",
-        view:"https://youtu.be/c-JuevASV_o?si=RAzQmwFCY-NXYYxF",
-        source:"https://www.youtube.com/"
+        title:"Portfolio Website",
+        text:"This is a portfolio website which has include basic front end part like projects and contact with responsiveness.",
+        view:"https://enggprofile.netlify.app/",
+        source:"https://github.com/Nit3710/Portfolio-website.git"
        
     },
     {
         imgsrc: travel,
-        title:"Travel website Design",
-        text:"This is a travel website project which has full functionality like payment and cart in that contains the information about all the cities flights and bus thanks.",
-        view:"https://youtu.be/0dOSLhPzSGI?si=AV1rzDVCHIkdhp_d",
-        source:"https://www.youtube.com/"
+        title:"Social media Website",
+        text:"This is a social media website project which has front-end part of the websites like stories, post and request user experiences.",
+        view:"https://nitcon.netlify.app/",
+        source:"https://github.com/Nit3710/Social-Media-website.git"
        
     }
 ];
